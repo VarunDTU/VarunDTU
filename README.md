@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varun</h1>
 <h3 align="center">A Software developer</h3>
 
-- 👨‍💻 All of my projects are available at [Website](https://varunnegi.netlify.app/)
+- 👨‍💻 All of my projects are available at my [Website](https://varunnegi.netlify.app/)
 
 - 📫 How to reach me **varun.py10@gmail.com**
 
